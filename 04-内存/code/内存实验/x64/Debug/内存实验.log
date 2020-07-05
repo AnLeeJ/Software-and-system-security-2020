@@ -1,0 +1,13 @@
+﻿  cl: 命令行 warning D9025 :正在重写“/sdl-”(用“/GS-”)
+  try.cpp
+  try2.cpp
+  try3.cpp
+E:\迅雷下载\Software-and-system-security-master\Software-and-system-security-master\作业4-内存\code\内存实验\内存实验\try3.cpp(35,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\ostream(348,1): warning C4530:  使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\ostream(341): message :  在编译 类 模板 成员函数“std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)”时
+E:\迅雷下载\Software-and-system-security-master\Software-and-system-security-master\作业4-内存\code\内存实验\内存实验\try3.cpp(14): message :  查看对正在编译的函数 模板 实例化“std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)”的引用
+  源.cpp
+  正在生成代码...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\ostream(602): message :  查看对正在编译的 类 模板 实例化“std::basic_ostream<char,std::char_traits<char>>”的引用
+  内存实验.vcxproj -> E:\迅雷下载\Software-and-system-security-master\Software-and-system-security-master\作业4-内存\code\内存实验\x64\Debug\内存实验.exe
